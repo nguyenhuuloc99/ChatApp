@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "967107738243",
+    "firebase_url": "https://profound-ranger-277106.firebaseio.com",
+    "project_id": "profound-ranger-277106",
+    "storage_bucket": "profound-ranger-277106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967107738243:android:1314eddc6cd78be33139b6",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967107738243-oi54e07thbcrb2u6j6nrf2hm6vj0vntm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM19E4jdrp-CdWau-OwsUFUJJVCkKA364"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967107738243-oi54e07thbcrb2u6j6nrf2hm6vj0vntm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967107738243:android:ed56d20e6d2616123139b6",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967107738243-oi54e07thbcrb2u6j6nrf2hm6vj0vntm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM19E4jdrp-CdWau-OwsUFUJJVCkKA364"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967107738243-oi54e07thbcrb2u6j6nrf2hm6vj0vntm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

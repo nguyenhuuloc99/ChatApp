@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Trang chủ"
+        android:icon="@drawable/home"
+        app:showAsAction="always"
+        android:id="@+id/menu_home"
+        />
+
+    <item android:title="Danh bạ"
+        app:showAsAction="always"
+        android:id="@+id/menu_phone"
+        android:icon="@drawable/search"
+        />
+    <item android:title="Post"
+        app:showAsAction="always"
+        android:id="@+id/menu_post"
+        android:icon="@drawable/add"
+        />
+    <item android:title="Đoạn chat"
+        app:showAsAction="always"
+        android:id="@+id/menu_message"
+        android:icon="@drawable/message"
+        />
+    <item
+        android:id="@+id/menu_profile"
+        app:showAsAction="always"
+        android:title="Profile"
+        android:icon="@drawable/person"
+        />
+</menu>
